@@ -20,25 +20,5 @@
         "category": "Created-Playlist",
         "title": "Johnny Diggson"
     },
-    {
-        "id": 4,
-        "category": "Created-Playlist",
-        "title": "Deamon"
-    },
-    {
-        "id": 5,
-        "category": "Created-Playlist",
-        "title": "KRB"
-    },
-    {
-        "id": 6,
-        "category": "Created-Playlist",
-        "title": "Happy"
-      },
-      {
-          "id": 7,
-          "category": "Created-Playlist",
-          "title": "Depri"
-      },
   ]
 }
